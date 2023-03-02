@@ -1,0 +1,37 @@
+{
+  "index3-onepage.js -> ../src/components/Isotope/PreMadeTemplateIsotope": {
+    "id": 1940,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/940.d0b861b346db3b06.js"
+    ]
+  },
+  "index3.js -> ../src/components/Isotope/PreMadeTemplateIsotope": {
+    "id": 1940,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/940.d0b861b346db3b06.js"
+    ]
+  },
+  "projects.js -> ../src/components/Isotope/ProjectGridIsotope": {
+    "id": 237,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/237.625f0a0359a8411f.js"
+    ]
+  },
+  "shop.js -> ../src/components/Isotope/ShopIsotope": {
+    "id": 1013,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/798.d3ebd6fa0e29e0ad.js"
+    ]
+  },
+  "team.js -> ../src/components/Isotope/TeamIsotope": {
+    "id": 4332,
+    "files": [
+      "static/chunks/391.07d49f0575a5578e.js",
+      "static/chunks/332.0d05d24f5bc4bbce.js"
+    ]
+  }
+}

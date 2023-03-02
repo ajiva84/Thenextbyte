@@ -5,8 +5,10 @@ import Counter from "../src/components/Counter";
 import ClientsFeedback from "../src/components/home1/ClientsFeedback";
 import Hero1 from "../src/components/home1/Hero1";
 import RecentProjects from "../src/components/home1/RecentProjects";
+import ContactUs from "../src/components/home1/ContactUs";
 import Layout from "../src/layout/Layout";
 import SideBar from "../src/layout/SideBar";
+
 const IndexOnePage = () => {
   return (
     <Layout className="home-one" footer={1} noHeader>
@@ -760,7 +762,8 @@ const IndexOnePage = () => {
       <ClientsFeedback />
       {/* Testimonial Area End */}
       {/* Contact Area Start */}
-      <section
+      <ContactUs />
+      {/* <section
         id="contact"
         className="contact-area overflow-hidden py-130 bgc-black-with-lighting rel z-1"
       >
@@ -810,6 +813,8 @@ const IndexOnePage = () => {
               </div>
             </div>
             <div className="col-xl-5 col-lg-6">
+
+
               <form
                 onSubmit={(e) => e.preventDefault()}
                 id="contact-area-form"
@@ -879,7 +884,7 @@ const IndexOnePage = () => {
             alt="Shape"
           />
         </div>
-      </section>
+      </section> */}
       {/* Contact Area End */}
       {/* Blog Area start */}
       <section id="news" className="news-blog-area pt-130 pb-75 rel z-1">
