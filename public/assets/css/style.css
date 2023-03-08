@@ -5938,8 +5938,8 @@ h6, .h6 {
       content: '$'; }
     .price-and-btn .price:after {
       color: white;
-      font-size: 18px;
-      content: '/monthly'; }
+      font-size: 18px; }
+      /* content: '/monthly'; } */
   .price-and-btn .save {
     display: block;
     font-size: 18px;

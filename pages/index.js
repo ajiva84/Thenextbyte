@@ -633,14 +633,17 @@ const IndexOnePage = () => {
                 <div className="pricing-inner">
                   <ul className="list-style-two">
                     <li>Landing page design (10 pages)</li>
-                    <li>HTML+CSS design (12 pages)</li>
+                    <li>5 business emails</li>
                     <li>Social Media Marketing</li>
                     <li>Domin hosting provider</li>
-                    <li>Online support (24/7)</li>
+                    <li>Template based website</li>
+                    <li>SEO friendly</li>
+                    <li>Inquery forms</li>
+                    <li>1 month free support from USA (24/7)</li>
                   </ul>
                   <div className="price-and-btn">
                     <div className="content">
-                      <span className="price">248</span>
+                      <span className="price">350</span>
                       <span className="save">
                         Save<span> 25%</span>
                       </span>
@@ -661,15 +664,18 @@ const IndexOnePage = () => {
                 <span className="badge">popular package</span>
                 <div className="pricing-inner">
                   <ul className="list-style-two">
-                    <li>Landing page design (10 pages)</li>
-                    <li>HTML+CSS design (12 pages)</li>
+                    <li>15 pages website</li>
+                    <li>10 business emails</li>
                     <li>Social Media Marketing</li>
-                    <li>Domin hosting provider</li>
-                    <li>Online support (24/7)</li>
+                    <li>Domin and hosting free for 1 year</li>
+                    <li>Template based website</li>
+                    <li>SEO friendly </li>
+                    <li>Inquery forms </li>
+                    <li>1 month free support from USA(24/7)</li>
                   </ul>
                   <div className="price-and-btn">
                     <div className="content">
-                      <span className="price">352</span>
+                      <span className="price">550</span>
                       <span className="save">
                         Save<span> 25%</span>
                       </span>
@@ -690,15 +696,18 @@ const IndexOnePage = () => {
                 <span className="badge">popular package</span>
                 <div className="pricing-inner">
                   <ul className="list-style-two">
-                    <li>Landing page design (10 pages)</li>
-                    <li>HTML+CSS design (12 pages)</li>
+                    <li>30 pages website</li>
+                    <li>10 business emails</li>
                     <li>Social Media Marketing</li>
-                    <li>Domin hosting provider</li>
-                    <li>Online support (24/7)</li>
+                    <li>Domin and hosting free for 1 year</li>
+                    <li>Payment gateway integration</li>
+                    <li>Google Analytics / SEO friendly </li>
+                    <li>Inquery forms / feedback form / blog</li>
+                    <li>6 month free support from USA(24/7)</li>
                   </ul>
                   <div className="price-and-btn">
                     <div className="content">
-                      <span className="price">583</span>
+                      <span className="price">999</span>
                       <span className="save">
                         Save<span> 25%</span>
                       </span>
@@ -719,15 +728,18 @@ const IndexOnePage = () => {
                 <span className="badge">popular package</span>
                 <div className="pricing-inner">
                   <ul className="list-style-two">
-                    <li>Landing page design (10 pages)</li>
-                    <li>HTML+CSS design (12 pages)</li>
-                    <li>Social Media Marketing</li>
-                    <li>Domin hosting provider</li>
-                    <li>Online support (24/7)</li>
+                  <li>unlimtied pages</li>
+                  <li>50 business emails</li>
+                  <li>Social Media Marketing</li>
+                  <li>Domin and hosting free for 2 year</li>
+                  <li>Payment gateway integration</li>
+                  <li>Google Analytics / SEO friendly </li>
+                  <li>Inquery forms / feedback form / blog</li>
+                  <li>6 month free support from USA(24/7)</li>
                   </ul>
                   <div className="price-and-btn">
                     <div className="content">
-                      <span className="price">834</span>
+                      <span className="price">3999</span>
                       <span className="save">
                         Save<span> 25%</span>
                       </span>
